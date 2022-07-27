@@ -1,4 +1,5 @@
-/*
+/* vi:set expandtab ts=4 sw=4 cino={.5s,n-2 cindent:
+ *
  * Copyright © 2014-2019 Red Hat, Inc
  * Copyright © 2017 Endless Mobile, Inc.
  *
